@@ -1,4 +1,4 @@
-# How to Learn Japanese
+# how to learn japanese
 
 ## Description
 AI will be integrated in the system we make to teach you Japanese, just like Duolingo or Drops and other language-teaching apps and websites. The platform will offer interactive lessons, vocabulary building, grammar tutorials, and conversational practice with the help of AI.
